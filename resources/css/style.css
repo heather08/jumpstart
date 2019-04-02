@@ -1,0 +1,16 @@
+/* Universal Styles */
+html {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+}
+/* Navigation Section */
+
+.navbar-default .navbar-nav > .active > a {
+  background-color: inherit;
+  color: #399bd1;
+}
+
+.navbar-default .navbar-nav > .active > a:hover {
+  background-color: inherit;
+  color: #399bd1;
+}
